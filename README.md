@@ -5,5 +5,13 @@
 - ### Поташников Андрей
 - ### Горшков Данил
 ## Диаграммы:
-- ### Классов
+- ### Классов:
 ![](img/class.png "Class")
+- ### Взаимодействий:
+![](img/activity.png "Activity")
+- ### Компонентов:
+![](img/components.png "Сomponents")
+- ### Состояний:
+![](img/states.png "States")
+- ### UseCase:
+![](img/usecase.png "Usecase")
